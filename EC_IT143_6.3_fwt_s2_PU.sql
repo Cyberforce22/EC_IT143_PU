@@ -1,0 +1,4 @@
+-- File: EC_IT143_6.3_fwt_s2_PU.sql
+-- Step 2 – Begin Answer
+-- I need an AFTER UPDATE trigger.
+-- It should update LastModifiedDate and LastModifiedBy.
