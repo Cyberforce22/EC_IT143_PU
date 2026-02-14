@@ -1,0 +1,4 @@
+-- File: EC_IT143_6.3_fwt_s6_PU.sql
+-- Step 6 – Next Question
+-- How do I ensure LastModifiedBy stores the server user?
+-- Answer: Use SUSER_NAME()

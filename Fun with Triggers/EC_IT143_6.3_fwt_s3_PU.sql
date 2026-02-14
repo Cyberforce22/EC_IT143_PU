@@ -1,0 +1,5 @@
+-- File: EC_IT143_6.3_fwt_s3_PU.sql
+-- Step 3 – Research
+-- Research Sources:
+-- Microsoft Docs - CREATE TRIGGER
+-- StackOverflow - After Update Trigger Example
